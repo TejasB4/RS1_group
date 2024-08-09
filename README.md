@@ -9,16 +9,16 @@ Structure is as follows:
 
 Revision Control
 - Use the below to push/pull from the repo. Similar to PFMS
-git fetch origin
-git merge origin/main --allow-unrelated-histories
-git pull
+- git fetch origin
+- git merge origin/main --allow-unrelated-histories
+- git pull
 
 OR
-git push
+- git push
 
 AND
-git add .
-git commit -m"add comment"
-git push
+- git add .
+- git commit -m"add comment"
+- git push
 
 
