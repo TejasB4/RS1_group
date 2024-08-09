@@ -1,0 +1,1 @@
+/home/student/RS1/RS1_group/scamazon/ros2_ws_group/build/turtlesim/rosidl_cmake/rosidl_cmake_export_typesupport_targets-extras.cmake

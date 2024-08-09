@@ -1,0 +1,1 @@
+ament_cmake_symlink_install_targets("TARGET_FILES" "/home/student/RS1/RS1_group/scamazon/ros2_ws_group/build/dynamixel_sdk_examples/read_write_node" "TARGETS" "read_write_node" "DESTINATION" "lib/dynamixel_sdk_examples")

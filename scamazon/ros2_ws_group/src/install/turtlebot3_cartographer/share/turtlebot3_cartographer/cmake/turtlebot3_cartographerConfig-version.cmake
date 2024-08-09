@@ -1,0 +1,1 @@
+/home/student/RS1/RS1_group/scamazon/ros2_ws_group/src/build/turtlebot3_cartographer/ament_cmake_core/turtlebot3_cartographerConfig-version.cmake

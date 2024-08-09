@@ -1,0 +1,10 @@
+/home/student/RS1/RS1_group/scamazon/ros2_ws_group/src/build/dynamixel_sdk/CMakeFiles/uninstall.dir
+/home/student/RS1/RS1_group/scamazon/ros2_ws_group/src/build/dynamixel_sdk/CMakeFiles/dynamixel_sdk_uninstall.dir
+/home/student/RS1/RS1_group/scamazon/ros2_ws_group/src/build/dynamixel_sdk/CMakeFiles/dynamixel_sdk.dir
+/home/student/RS1/RS1_group/scamazon/ros2_ws_group/src/build/dynamixel_sdk/CMakeFiles/test.dir
+/home/student/RS1/RS1_group/scamazon/ros2_ws_group/src/build/dynamixel_sdk/CMakeFiles/edit_cache.dir
+/home/student/RS1/RS1_group/scamazon/ros2_ws_group/src/build/dynamixel_sdk/CMakeFiles/rebuild_cache.dir
+/home/student/RS1/RS1_group/scamazon/ros2_ws_group/src/build/dynamixel_sdk/CMakeFiles/list_install_components.dir
+/home/student/RS1/RS1_group/scamazon/ros2_ws_group/src/build/dynamixel_sdk/CMakeFiles/install.dir
+/home/student/RS1/RS1_group/scamazon/ros2_ws_group/src/build/dynamixel_sdk/CMakeFiles/install/local.dir
+/home/student/RS1/RS1_group/scamazon/ros2_ws_group/src/build/dynamixel_sdk/CMakeFiles/install/strip.dir

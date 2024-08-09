@@ -1,0 +1,11 @@
+{
+  "package_name": "turtlebot3_msgs",
+  "non_idl_tuples": [
+    "/home/student/RS1/RS1_group/scamazon/ros2_ws_group/src/turtlebot3_msgs:msg/SensorState.msg",
+    "/home/student/RS1/RS1_group/scamazon/ros2_ws_group/src/turtlebot3_msgs:msg/Sound.msg",
+    "/home/student/RS1/RS1_group/scamazon/ros2_ws_group/src/turtlebot3_msgs:msg/VersionInfo.msg",
+    "/home/student/RS1/RS1_group/scamazon/ros2_ws_group/src/turtlebot3_msgs:srv/Sound.srv",
+    "/home/student/RS1/RS1_group/scamazon/ros2_ws_group/src/turtlebot3_msgs:srv/Dqn.srv",
+    "/home/student/RS1/RS1_group/scamazon/ros2_ws_group/src/turtlebot3_msgs:action/Patrol.action"
+  ]
+}

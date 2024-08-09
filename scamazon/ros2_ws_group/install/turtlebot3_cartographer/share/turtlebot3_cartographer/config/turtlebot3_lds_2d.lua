@@ -1,0 +1,1 @@
+/home/student/RS1/RS1_group/scamazon/ros2_ws_group/src/turtlebot3/turtlebot3_cartographer/config/turtlebot3_lds_2d.lua

@@ -1,0 +1,1 @@
+/home/student/RS1/RS1_group/scamazon/ros2_ws_group/build/turtlebot3_msgs/rosidl_typesupport_fastrtps_cpp/turtlebot3_msgs/msg/rosidl_typesupport_fastrtps_cpp__visibility_control.h
