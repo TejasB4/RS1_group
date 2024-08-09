@@ -1,13 +1,13 @@
 # RS1_group
 Group repository for RS1
 
-Structure is as follows:
+**Structure is as follows:**
 - scamazon/ros2_ws_group/src and other files
 - in scamazon we can hold files that are not coding related
 - colcon build and compilation to be done in ros2_ws_group for best practice
 - running code in ros2_ws_group
 
-Revision Control
+**Revision Control**
 - Use the below to push/pull from the repo. Similar to PFMS
 - git fetch origin
 - git merge origin/main --allow-unrelated-histories
@@ -21,4 +21,5 @@ AND
 - git commit -m"add comment"
 - git push
 
+**Notify group members when editing and pushing code**
 
