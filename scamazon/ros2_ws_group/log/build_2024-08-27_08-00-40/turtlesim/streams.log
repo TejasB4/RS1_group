@@ -1,0 +1,27 @@
+[0.402s] Invoking command in '/home/student/RS1/RS1_group/scamazon/ros2_ws_group/build/turtlesim': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/student/RS1/RS1_group/scamazon/ros2_ws_group/install/turtlebot3_teleop:/home/student/RS1/RS1_group/scamazon/ros2_ws_group/install/turtlebot3_example:/home/student/ros2_ws/install/turtlebot3_teleop:/home/student/ros2_ws/install/turtlebot3_example:/home/student/ros2_ws/install/tb3_lab1:/opt/ros/humble /usr/bin/cmake --build /home/student/RS1/RS1_group/scamazon/ros2_ws_group/build/turtlesim -- -j8 -l8
+[0.500s] [  1%] Built target turtlesim__cpp
+[0.553s] [  1%] Built target ament_cmake_python_symlink_turtlesim
+[0.597s] [ 11%] Built target turtlesim__rosidl_typesupport_introspection_cpp
+[0.938s] running egg_info
+[0.939s] writing turtlesim.egg-info/PKG-INFO
+[0.939s] writing dependency_links to turtlesim.egg-info/dependency_links.txt
+[0.939s] writing top-level names to turtlesim.egg-info/top_level.txt
+[0.942s] reading manifest file 'turtlesim.egg-info/SOURCES.txt'
+[0.943s] writing manifest file 'turtlesim.egg-info/SOURCES.txt'
+[0.982s] [ 11%] Built target ament_cmake_python_build_turtlesim_egg
+[1.019s] [ 21%] Built target turtlesim__rosidl_typesupport_fastrtps_cpp
+[1.058s] [ 31%] Built target turtlesim__rosidl_typesupport_cpp
+[1.092s] [ 41%] Built target turtlesim__rosidl_generator_c
+[1.127s] [ 43%] Built target mimic
+[1.160s] [ 53%] Built target turtlesim__rosidl_typesupport_c
+[1.193s] [ 63%] Built target turtlesim__rosidl_typesupport_introspection_c
+[1.229s] [ 73%] Built target turtlesim__rosidl_typesupport_fastrtps_c
+[1.266s] [ 75%] Built target draw_square
+[1.296s] [ 75%] Built target turtlesim
+[1.331s] [ 77%] Built target turtle_teleop_key
+[1.363s] [ 78%] Built target turtlesim__py
+[1.407s] [ 84%] Built target turtlesim_node
+[1.444s] [ 93%] Built target turtlesim__rosidl_generator_py
+[1.477s] [ 95%] Built target turtlesim__rosidl_typesupport_fastrtps_c__pyext
+[1.507s] [ 97%] Built target turtlesim__rosidl_typesupport_c__pyext
+[1.540s] [100%] Built target turtlesim__rosidl_typesupport_introspection_c__pyext

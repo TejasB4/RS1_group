@@ -1,0 +1,19 @@
+[1.243s] Invoking command in '/home/student/RS1/RS1_group/scamazon/ros2_ws_group/build/turtlebot3_teleop': PYTHONPATH=/home/student/RS1/RS1_group/scamazon/ros2_ws_group/build/turtlebot3_teleop/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/student/RS1/RS1_group/scamazon/ros2_ws_group/install/turtlebot3_teleop/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/student/RS1/RS1_group/scamazon/ros2_ws_group/build/turtlebot3_teleop/build --no-deps symlink_data
+[1.605s] running develop
+[1.606s] /usr/lib/python3/dist-packages/setuptools/command/easy_install.py:158: EasyInstallDeprecationWarning: easy_install command is deprecated. Use build and pip and other standards-based tools.
+[1.607s]   warnings.warn(
+[1.838s] running egg_info
+[1.839s] writing turtlebot3_teleop.egg-info/PKG-INFO
+[1.839s] writing dependency_links to turtlebot3_teleop.egg-info/dependency_links.txt
+[1.839s] writing entry points to turtlebot3_teleop.egg-info/entry_points.txt
+[1.839s] writing requirements to turtlebot3_teleop.egg-info/requires.txt
+[1.840s] writing top-level names to turtlebot3_teleop.egg-info/top_level.txt
+[1.842s] reading manifest file 'turtlebot3_teleop.egg-info/SOURCES.txt'
+[1.843s] writing manifest file 'turtlebot3_teleop.egg-info/SOURCES.txt'
+[1.844s] running build_ext
+[1.845s] Creating /home/student/RS1/RS1_group/scamazon/ros2_ws_group/install/turtlebot3_teleop/lib/python3.10/site-packages/turtlebot3-teleop.egg-link (link to .)
+[1.846s] Installing teleop_keyboard script to /home/student/RS1/RS1_group/scamazon/ros2_ws_group/install/turtlebot3_teleop/lib/turtlebot3_teleop
+[1.846s] 
+[1.846s] Installed /home/student/RS1/RS1_group/scamazon/ros2_ws_group/build/turtlebot3_teleop
+[1.846s] running symlink_data
+[2.035s] Invoked command in '/home/student/RS1/RS1_group/scamazon/ros2_ws_group/build/turtlebot3_teleop' returned '0': PYTHONPATH=/home/student/RS1/RS1_group/scamazon/ros2_ws_group/build/turtlebot3_teleop/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/student/RS1/RS1_group/scamazon/ros2_ws_group/install/turtlebot3_teleop/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/student/RS1/RS1_group/scamazon/ros2_ws_group/build/turtlebot3_teleop/build --no-deps symlink_data

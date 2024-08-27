@@ -1,0 +1,23 @@
+[0.076s] Invoking command in '/home/student/RS1/RS1_group/scamazon/ros2_ws_group/build/turtlebot3_msgs': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/student/RS1/RS1_group/scamazon/ros2_ws_group/install/turtlebot3_teleop:/home/student/RS1/RS1_group/scamazon/ros2_ws_group/install/turtlebot3_example:/home/student/ros2_ws/install/turtlebot3_teleop:/home/student/ros2_ws/install/turtlebot3_example:/home/student/ros2_ws/install/tb3_lab1:/opt/ros/humble /usr/bin/cmake --build /home/student/RS1/RS1_group/scamazon/ros2_ws_group/build/turtlebot3_msgs -- -j8 -l8
+[0.193s] [  1%] Built target turtlebot3_msgs__cpp
+[0.265s] [  1%] Built target ament_cmake_python_symlink_turtlebot3_msgs
+[0.331s] [ 12%] Built target turtlebot3_msgs__rosidl_typesupport_introspection_cpp
+[0.759s] running egg_info
+[0.759s] writing turtlebot3_msgs.egg-info/PKG-INFO
+[0.760s] writing dependency_links to turtlebot3_msgs.egg-info/dependency_links.txt
+[0.760s] writing top-level names to turtlebot3_msgs.egg-info/top_level.txt
+[0.763s] reading manifest file 'turtlebot3_msgs.egg-info/SOURCES.txt'
+[0.765s] writing manifest file 'turtlebot3_msgs.egg-info/SOURCES.txt'
+[0.800s] [ 12%] Built target ament_cmake_python_build_turtlebot3_msgs_egg
+[0.837s] [ 23%] Built target turtlebot3_msgs__rosidl_typesupport_fastrtps_cpp
+[0.872s] [ 35%] Built target turtlebot3_msgs__rosidl_typesupport_cpp
+[0.906s] [ 46%] Built target turtlebot3_msgs__rosidl_generator_c
+[0.965s] [ 57%] Built target turtlebot3_msgs__rosidl_typesupport_fastrtps_c
+[1.008s] [ 69%] Built target turtlebot3_msgs__rosidl_typesupport_c
+[1.054s] [ 80%] Built target turtlebot3_msgs__rosidl_typesupport_introspection_c
+[1.093s] [ 80%] Built target turtlebot3_msgs
+[1.122s] [ 81%] Built target turtlebot3_msgs__py
+[1.161s] [ 91%] Built target turtlebot3_msgs__rosidl_generator_py
+[1.198s] [ 94%] Built target turtlebot3_msgs__rosidl_typesupport_fastrtps_c__pyext
+[1.239s] [ 97%] Built target turtlebot3_msgs__rosidl_typesupport_c__pyext
+[1.276s] [100%] Built target turtlebot3_msgs__rosidl_typesupport_introspection_c__pyext
