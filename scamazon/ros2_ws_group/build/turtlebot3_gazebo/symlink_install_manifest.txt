@@ -65,6 +65,7 @@
 /home/student/RS1/RS1_group/scamazon/ros2_ws_group/install/turtlebot3_gazebo/share/turtlebot3_gazebo//worlds/turtlebot3_house.world
 /home/student/RS1/RS1_group/scamazon/ros2_ws_group/install/turtlebot3_gazebo/share/turtlebot3_gazebo//worlds/turtlebot3_warehouse.world
 /home/student/RS1/RS1_group/scamazon/ros2_ws_group/install/turtlebot3_gazebo/share/turtlebot3_gazebo//worlds/turtlebot3_world.world
+/home/student/RS1/RS1_group/scamazon/ros2_ws_group/install/turtlebot3_gazebo/share/turtlebot3_gazebo//worlds/updatedWarehouse.world
 /home/student/RS1/RS1_group/scamazon/ros2_ws_group/install/turtlebot3_gazebo/include//turtlebot3_gazebo/turtlebot3_drive.hpp
 /home/student/RS1/RS1_group/scamazon/ros2_ws_group/install/turtlebot3_gazebo/share/ament_index/resource_index/package_run_dependencies/turtlebot3_gazebo
 /home/student/RS1/RS1_group/scamazon/ros2_ws_group/install/turtlebot3_gazebo/share/ament_index/resource_index/parent_prefix_path/turtlebot3_gazebo
